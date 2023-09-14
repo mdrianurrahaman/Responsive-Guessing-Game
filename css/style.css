@@ -1,0 +1,76 @@
+body{
+
+    background-color: #eee;
+    font-family: 'Nunito',sans-serif;
+}
+
+.container{
+    background-color: #e0dada;
+    padding:20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #c7c1c1,-5px -5px 10px #f6f2f2;
+    width:400px;
+    margin-top: 100px auto;
+
+}
+
+h1{
+    font-size:36px  ;
+    margin-top: 0;
+}
+
+p{
+    font-size: 18px ;
+    margin-bottom: 10px;
+}
+
+input[type=number]{
+    padding:10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border:none;
+    background-color: #c7c1c1;
+    color:#fff;
+    width:80%;
+    margin-right: 10px;
+    box-shadow: 3px 3px 5px #c7c1c1 , -2px -4px 5px #f2f2f2;
+
+
+}
+
+button{
+
+    margin-top: 10px;
+    padding:10px;
+    font-size: 18px;
+    border-radius: 5px;
+    border:none;
+    margin-right: 10px;
+    box-shadow: 3px 3px 5px #c7c1c1 , -3px -3px 5px #f2f2f2;
+    cursor: pointer ;
+    
+}
+
+#guess-btn{
+    background-color: #66b9f0;
+    color:#eee;
+
+}
+
+#reset-btn{
+    background-color:red;
+    color:#eee;
+}
+
+#message{
+    margin-top:10px;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+
+
+
+
+
